@@ -1,0 +1,7 @@
+{
+  "name": "MORE ENGLISH MORE LOVE",
+  "description": "تطبيق تعليمي تفاعلي متكامل للغة الإنجليزية بإشراف وتدريس المعلمة جيداء صقر مع نظام تفعيل وتحقق رياضي ذكي ومستقل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
